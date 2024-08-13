@@ -1,8 +1,8 @@
 👋 Hi, I’m @ELETAY <br>
-👀 I’m interested in turning complex data into clear, actionable insights. <br>
+👀 Keen interest in turning complex data into clear, actionable insights. <br>
 🌱 I’m currently enhancing my statistical analysis expertise and refining my data storytelling skills to deliver more impactful insights. <br>
 💞️ I’m looking to collaborate on data-driven projects that solve real-world problems. <br>
-📫 How to reach me: www.linkedin.com/in/eleanortlz <br>
+📫 Ping me on Linkedin for a collab: www.linkedin.com/in/eleanortlz <br>
 ⚡ Fun fact: I did a career pivot from procurement to data analyst! <br>
 
 <!---
